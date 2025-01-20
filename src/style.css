@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    font-family: "Lora", serif;
+}
+
+body {
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+h1 {
+    color: #577BC1;
+}
+
+a,
+.copy-right {
+    color: #344CB7;
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+    color: #577BC1;
+    text-decoration: underline;
+    transition: 150ms all ease-in-out;
+}
