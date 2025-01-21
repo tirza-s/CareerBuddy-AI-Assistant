@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #ece8d23e;
+    background-color: #000000;
     text-align: center;
 }
 
@@ -13,23 +13,23 @@ body {
 }
 
 h1 {
-    color: #798645;
+    color: #9A0680;
     font-size: 42px;
     line-height: 1.8;
 }
 
 form {
-    background-color: #F1F0E8;
+    background-color: #9A0680;
 
     padding: 45px;
     border-radius: 10px;
 }
 
 input {
-    background-color: #d7cca8e4;
+    background-color: #c2b8c5e2;
     border: none;
     border-radius: 5px;
-    color: #626F47;
+    color: #160040;
     font-size: 17px;
     padding: 12px 12px;
     width: 70%;
@@ -37,44 +37,46 @@ input {
 
 .submit-input {
     width: 20%;
-    background-color: #798645;
-    color: #F2EED7;
+    background-color: #c2b8c5e2;
+    color: #160040;
     margin-left: 10px;
+    font-weight: 600;
 }
 
 .submit-input:hover {
-    background-color: #626F47;
+    background-color: #150050;
+    color: #c2b8c5e2;
     cursor: pointer;
     transition: all 150ms ease-in-out;
 }
 
 .receipe {
-    background: #F1F0E8;
+    background: #c2b8c5e2;
     font-size: 16px;
-    color: #626F47;
+    color: #9A0680;
     margin-top: 28px;
+    margin-bottom: -70px;
     padding: 25px;
     line-height: 24px;
     text-align: left;
-    border-left: 3px solid #798645;
-    border-right: 3px solid #798645;
+    border-left: 3px solid #9A0680;
+    border-right: 3px solid #9A0680;
     border-radius: 38px 12px;
-    box-shadow: 0px 18px 40px rgba(98, 111, 71, 0.2);
 }
 
 footer {
-    color: #798645;
+    color: #c2b8c5e2;
 }
 
 a,
 .copy-right {
-    color: #798645;
+    color: #c2b8c5e2;
     text-decoration: none;
 }
 
 a:hover {
     cursor: pointer;
-    color: #626F47;
+    color: #9A0680;
     text-decoration: underline;
     transition: 150ms all ease-in-out;
 }
