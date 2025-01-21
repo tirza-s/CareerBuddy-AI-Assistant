@@ -11,9 +11,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
         rel="stylesheet">
 
-    <!--Font Awesome goes below-->
     <!--Font awesome-->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" />
+
+    <!--Type writter goes below-->
+    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
 
     <title>🤖 AI Quote Generator 🤖</title>
 
@@ -28,20 +30,17 @@
         </header>
 
         <main>
-            <form>
-                <input type="text" placeholder="Please a word..." autofocus required autocomplete="off">
+            <form id="quote-generator-form">
+                <input type="text" placeholder="Please enter a word..." autofocus required autocomplete="off">
                 <input class="submit-input" type="submit" value="Submit" />
             </form>
         </main>
 
-        <section class="receipe">
-            <div>
-                <p>chardonnay</p>
-            </div>
+        <section class="quote-generator">
+            <div class="quote" id="quote"></div>
         </section>
 
     </div>
-
 
     <footer> <span class="copy-right">&copy; 2025</span>
 

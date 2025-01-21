@@ -20,16 +20,15 @@ h1 {
 
 form {
     background-color: #9A0680;
-
-    padding: 45px;
+    padding: 38px;
     border-radius: 10px;
 }
 
 input {
     background-color: #c2b8c5e2;
     border: none;
-    border-radius: 5px;
-    color: #160040;
+    border-radius: 50px;
+    color: #9A0680;
     font-size: 17px;
     padding: 12px 12px;
     width: 70%;
@@ -38,7 +37,7 @@ input {
 .submit-input {
     width: 20%;
     background-color: #c2b8c5e2;
-    color: #160040;
+    color: #9A0680;
     margin-left: 10px;
     font-weight: 600;
 }
@@ -50,7 +49,7 @@ input {
     transition: all 150ms ease-in-out;
 }
 
-.receipe {
+.quote-generator {
     background: #c2b8c5e2;
     font-size: 16px;
     color: #9A0680;
