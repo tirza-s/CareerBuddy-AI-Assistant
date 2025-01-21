@@ -29,10 +29,18 @@ input {
     border: none;
     border-radius: 50px;
     color: #9A0680;
-    font-size: 17px;
+    font-size: 16px;
+    margin-bottom: 12px;
     padding: 12px 12px;
     width: 70%;
 }
+
+small {
+    margin-right: 125px;
+    color: #c2b8c5e2;
+
+}
+
 
 .submit-input {
     width: 20%;

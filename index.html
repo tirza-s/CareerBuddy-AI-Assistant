@@ -17,7 +17,10 @@
     <!--Type writter goes below-->
     <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
 
-    <title>🤖 AI Quote Generator 🤖</title>
+    <!--Axios goes below-->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"> </script>
+
+    <title>🤖 CareerBuddy AI 🤖</title>
 
     <link rel="stylesheet" href="./src/style.css">
 </head>
@@ -26,13 +29,16 @@
 
     <div class="container">
         <header>
-            <h1>AI Quote Generator</h1>
+            <h1>CareerBuddy AI Assistant</h1>
         </header>
 
         <main>
             <form id="quote-generator-form">
-                <input type="text" placeholder="Please enter a word..." autofocus required autocomplete="off">
+                <input type="text" placeholder="Type here..." autofocus required autocomplete="off"
+                    id="user-instruction">
+
                 <input class="submit-input" type="submit" value="Submit" />
+                <small>What is your career goal ? (e.g.,UX Designer, Frontend Developer)</small>
             </form>
         </main>
 
