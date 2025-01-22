@@ -17,7 +17,7 @@ Thank you for understanding and for taking the time to explore my work 🙂
 • Get Personalized Advice: The app uses AI to create a list of seven actionable steps to help you on your journey. <br>
 • Stay Motivated: At the end of the advice, you’ll get a warm and encouraging message with emojis to keep things light and inspiring. <br>
   
-## Demo Video
+## Demo Video 📹
 **Tip:** For the best viewing experience, adjust the video quality to the maximum available in the Vimeo settings.
 
 [Watch the Full Demo](https://vimeo.com/1049304193)
