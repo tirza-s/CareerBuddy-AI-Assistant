@@ -1,6 +1,9 @@
 ## Welcome to Career Transition Buddy! 🎉
 
-This is simple AI-powered app is here to help anyone looking to make a career change. Whether you’re switching to a new role, or coming back to work after a break, Career Transition Buddy offers clear, practical advice to guide you every step of the way.
+This is simple AI-powered app is here to help anyone looking to make a career change. Whether you’re switching to a new role, or coming back to work after a break, Career Transition Buddy offers clear, practical advice to guide you every step of the way. 
+
+This project is to showcase of my learning journey in AI and web development. While it's functional and user-friendly, it's also an early step in my growth as a developer. 
+Thank you for understanding and for taking the time to explore my work 🙂
 
 ## What this buddy assistant can do ? ✨
 • Personalized Career Guidance: Simply type your career goal and the app will provide actionable advice tailored to your aspirations.
@@ -18,5 +21,5 @@ This is simple AI-powered app is here to help anyone looking to make a career ch
   
 ## Demo Video
 **Tip:** For the best viewing experience, adjust the video quality to the maximum available in the Vimeo settings.
-👇🏽
-[Watch the Full Demo](https://vimeo.com/1049304193) _(opens in a new tab)_
+
+[Watch the Full Demo](https://vimeo.com/1049304193)
