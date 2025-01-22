@@ -17,4 +17,6 @@ This is simple AI-powered app is here to help anyone looking to make a career ch
 
   
 ## Demo Video
-[Watch the Full Demo](https://vimeo.com/1049304193)
+**Tip:** For the best viewing experience, adjust the video quality to the maximum available in the Vimeo settings.
+👇🏽
+[Watch the Full Demo](https://vimeo.com/1049304193) _(opens in a new tab)_
