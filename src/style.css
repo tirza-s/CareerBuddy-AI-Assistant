@@ -41,7 +41,6 @@ small {
 
 }
 
-
 .submit-input {
     width: 20%;
     background-color: #c2b8c5e2;
@@ -57,18 +56,39 @@ small {
     transition: all 150ms ease-in-out;
 }
 
-.quote-generator {
+#career-generator {
     background: #c2b8c5e2;
-    font-size: 16px;
+    border-left: 3px solid #9A0680;
+    border-right: 3px solid #9A0680;
+    border-radius: 38px 12px;
     color: #9A0680;
+    font-size: 16px;
     margin-top: 28px;
     margin-bottom: -70px;
     padding: 25px;
     line-height: 24px;
     text-align: left;
-    border-left: 3px solid #9A0680;
-    border-right: 3px solid #9A0680;
-    border-radius: 38px 12px;
+}
+
+.hidden {
+    display: none;
+}
+
+.generating {
+    display: inline-block;
+    animation: spin 2s linear infinite;
+    font-size: 18px;
+    margin-left: 14px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 footer {
