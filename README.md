@@ -1,4 +1,4 @@
-## Welcome to Career Transition Buddy! 🎉
+## Welcome to Career Transition Buddy! 🚀🤖
 
 <img width="883" alt="career transition buddy" src="https://github.com/user-attachments/assets/585b9dae-7d3f-4d1d-9157-72759f8ac02b" /> <br>
 
