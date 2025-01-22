@@ -7,7 +7,8 @@ This is an AI-powered assistant designed to help individuals transition into new
 - 7 actionable steps for career transition
 
 ## UI Screenshot
-![Career Transition Buddy Screenshot](src/images/image-career%20transition%20buddy.png)
+<img width="883" alt="career transition buddy" src="https://github.com/user-attachments/assets/585b9dae-7d3f-4d1d-9157-72759f8ac02b" />
+
   
 ## Demo Video
 [Watch the Full Demo](https://vimeo.com/1049304193)
