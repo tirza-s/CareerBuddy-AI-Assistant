@@ -1,11 +1,11 @@
 ## Welcome to Career Transition Buddy! 🎉
 
-This is simple AI-powered app is here to help anyone looking to make a career change. Whether you’re switching to a new role, or coming back to work after a break, Career Transition Buddy offers clear, practical advice to guide you every step of the way. 
+This is simple AI-powered app is here to help anyone looking to make a career change. Whether you’re switching to a new role, or coming back to work after a break, Career Transition Buddy offers short, clear and practical advice to guide you every step of the way. 
 
 This project is to showcase of my learning journey in AI and web development. While it's functional and user-friendly, it's also an early step in my growth as a developer. 
 Thank you for understanding and for taking the time to explore my work 🙂
 
-## What this buddy assistant can do ? ✨
+## What this Career Transition Buddy can do ? ✨
 • Personalized Career Guidance: Simply type your career goal and the app will provide actionable advice tailored to your aspirations. <br>
 • 7 Actionable Steps: The app will provide a list of seven practical steps to help you achieve your career transition goal. <br>
 • Encouragement & Motivation: Career transitions can be challenging and overwhelming and this app is here to keep you motivated. Each response includes a kind, uplifting message to support you.
