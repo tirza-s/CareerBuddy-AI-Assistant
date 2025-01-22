@@ -6,6 +6,4 @@ This is an AI-powered assistant designed to help individuals transition into new
 - Personalized career advice
 - 7 actionable steps for career transition
 
-![App Demo GIF](src/images/demo.gif)
-
-[Watch the Full Demo](https://vimeo.com/1049304193)
+[![Watch the Demo Video](https://i.vimeocdn.com/video/123456789_640.jpg)](https://vimeo.com/1049304193)
