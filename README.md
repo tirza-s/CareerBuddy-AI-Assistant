@@ -5,3 +5,5 @@ This is an AI-powered assistant designed to help individuals transition into new
 ## Features
 - Personalized career advice
 - 7 actionable steps for career transition
+
+[![Vimeo Demo Video](https://i.vimeocdn.com/video/1049304193.jpg)](https://vimeo.com/manage/videos/1049304193)
